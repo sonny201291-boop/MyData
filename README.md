@@ -14,4 +14,9 @@ I have added some line of code here.
 <li>git add .</li> //To add all the files in one go
 <li>git commit -m "Some Message"</li>
 <li>git push origin main</li>
-<li></li>
+<li>git init</li>
+<li>git remote add origin <=link></li>
+<li>git remote -v (To verify remote)</li>
+<li>git branch (to check branch)</li>
+<li>git branch -M main (to rename branch)</li>
+<li>git push origin main</li>
